@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/1480-running-sum-of-1d-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ak8303281464-ship-it/https-github.com-ak8303281464-ship-it-leetcode_solution_self/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
